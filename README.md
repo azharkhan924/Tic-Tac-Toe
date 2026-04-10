@@ -10,7 +10,6 @@ A classic Tic-Tac-Toe game built with Java Swing. This project features a modern
 - **Restart/About/Exit**: Easy navigation and game reset.
 
 ## Screenshots
-![Main Menu](screenshots/main_menu.png)
 ![Gameplay](screenshots/gameplay.png)
 ![Win Message](screenshots/win_message.png)
 

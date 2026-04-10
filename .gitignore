@@ -1,0 +1,13 @@
+# Other projects in workspace
+/MindBridge/
+/hisabkitab/
+/kms 16/
+/kms-chain-upgrade/
+/mindbridge-v2/
+
+# OS/IDE files
+.DS_Store
+.vscode/
+
+# Java compilation files
+*.class
